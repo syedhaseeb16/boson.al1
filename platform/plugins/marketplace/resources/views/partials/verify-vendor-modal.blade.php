@@ -1,1 +1,0 @@
-{!! Form::modalAction('approve-vendor-for-selling-modal', trans('plugins/marketplace::unverified-vendor.approve_vendor_confirmation'), 'warning', trans('plugins/marketplace::unverified-vendor.approve_vendor_confirmation_description', ['vendor' => $vendor->name]), 'confirm-approve-vendor-for-selling-button', trans('plugins/marketplace::unverified-vendor.approve')) !!}
